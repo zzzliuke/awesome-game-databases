@@ -127,6 +127,7 @@ This is a list of video game resources: game databases, wikis, preservation proj
 - [GameFAQs](https://gamefaqs.gamespot.com/) - Guides, FAQs and boards for games across generations.
 - [IGN Wikis](https://www.ign.com/wikis) - Walkthroughs and wikis for major releases.
 - [Lutris](https://www.lutris.net/) - Open game manager for Linux with a database of install scripts.
+- [MyGamesWiki](https://mygames.wiki/) - English and Chinese game references with an Outbound crafting calculator and a Planet Zoo 2 barrier planner.
 
 ## Franchise Databases
 
